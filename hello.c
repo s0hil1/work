@@ -2,7 +2,8 @@
 
 int main ()
 {
-printf("Hello World\n");
+printf("Hello World\nFare thee well!\n");
+printf("Quicker Version!");
 
 return 0;
 }
